@@ -1,1 +1,1 @@
-# seech_to_text_with_chatgpt
+# speech_to_text_with_chatgpt
